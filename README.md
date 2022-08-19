@@ -22,6 +22,8 @@ run bundle install
 * Dependencies
 vs-code extension: ruby-linter
 
+* Notas
+- La BD no está completa pero contiene la información necesaria para visualizar lo requerido
+- Se incluye el archivo de DB .sqlite3
+- Test en Postman: https://documenter.getpostman.com/view/17778297/VUqoRykz
 
-
-* ...
